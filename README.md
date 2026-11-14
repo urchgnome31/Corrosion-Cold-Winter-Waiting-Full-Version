@@ -247,4 +247,4 @@ This repository serves as the official landing page for Corrosion: Cold Winter W
 **Get the most recent version of Corrosion: Cold Winter Waiting today!**
 
 ---
-**Last updated:** 2026-11-13 20:17:56 UTC
+**Last updated:** 2026-11-14 01:14:59 UTC
